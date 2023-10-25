@@ -1,0 +1,10 @@
+NOK:
+la til lokalfilene til repository om software engineer oblig 3
+la til yml til  projektet og måtte legge til rettigheter for github Actions slik at den kan kjøre gradlew.
+ellers så gikk dette veldig fort, vil anta at jeg hadde lagde testene bra :D.
+
+ENG:
+Added local files to the repository about software engineering assignment 3.
+Added yml to the project and had to grant permissions for GitHub Actions so it can run gradlew.
+Otherwise, this went very quickly. I would assume I wrote the tests well :D.
+
